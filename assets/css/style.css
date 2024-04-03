@@ -11,7 +11,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("https://media.istockphoto.com/id/1495090246/vector/black-glossy-ceramic-hexagon-tiles-pattern-horizontal-background-modern-home-interior.jpg?s=612x612&w=0&k=20&c=p1gH3YbkAvfV40x_zgOFLgYKUsMDnDZoyxR2IBGn-hg=") top right no-repeat;
+  background: #040404 url("https://i.postimg.cc/wMGqmczD/istockphoto-1495090246-612x612.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
